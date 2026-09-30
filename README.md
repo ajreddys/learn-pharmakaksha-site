@@ -11,13 +11,13 @@ Students open **https://learn.pharmakaksha.com** and run Python in their browser
 
 | Folder | Course | Notebooks |
 | --- | --- | --- |
-| `content/BP101T` | Basics of Python Programming for Pharmaceutical Sciences | Unit I |
+| `content/BP101T Basics of Python Programming for Pharmaceutical Sciences (Theory)` | BP101T, Semester I | Unit I |
 
 The site is built with [JupyterLite](https://jupyterlite.readthedocs.io). Python runs inside each student's browser, using the Pyodide engine, so there are no server costs and no limit on how many students can use it. NumPy, Pandas, Matplotlib, SciPy, statsmodels and scikit-learn are all available.
 
 ## Adding a notebook
 
-1. Put the `.ipynb` file in the right course folder under `content/`, for example `content/BP101T/`.
+1. Put the `.ipynb` file in the right course folder under `content/`, for example `content/BP101T Basics of Python Programming for Pharmaceutical Sciences (Theory)/`.
 2. Commit and push to `main`.
 3. The **Build and deploy** GitHub Action rebuilds the site. The notebook is live in about 2 minutes.
 
@@ -25,20 +25,27 @@ Datasets (CSV files) go next to the notebook that uses them. The notebook can th
 
 ## One-time setup
 
-1. **Create the repository.** On GitHub, create a **public** repository called `learn` under your account. Push this folder to it:
+1. **Create the repository.** On GitHub, create a **public** repository (this one is `ajreddys/learn-pharmakaksha-site`). Push this folder to it:
    ```bash
    git init -b main
    git add .
    git commit -m "Pharmakaksha learn site"
-   git remote add origin https://github.com/<your-username>/learn.git
+   git remote add origin https://github.com/ajreddys/learn-pharmakaksha-site.git
    git push -u origin main
    ```
 2. **Turn on Pages.** In the repository, go to **Settings → Pages** and set **Source = GitHub Actions**.
 3. **Add the DNS record.** At your domain provider for pharmakaksha.com, add one record:
    - Type: `CNAME`
    - Name / Host: `learn`
-   - Value / Points to: `<your-username>.github.io`
+   - Value / Points to: `ajreddys.github.io`
 4. **Connect the domain.** Back in **Settings → Pages**, enter `learn.pharmakaksha.com` as the **Custom domain** and save. Once the DNS check passes, tick **Enforce HTTPS**. This can take up to an hour.
+
+## Sharing a notebook link
+
+Links to notebooks must write spaces as `%20` and brackets as `%28` and `%29`. For example:
+
+- Site: `https://learn.pharmakaksha.com/notebooks/index.html?path=<folder>/<notebook>.ipynb`
+- Colab: `https://colab.research.google.com/github/ajreddys/learn-pharmakaksha-site/blob/main/content/<folder>/<notebook>.ipynb`
 
 ## Local preview (optional)
 
