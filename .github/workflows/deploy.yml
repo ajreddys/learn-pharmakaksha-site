@@ -26,6 +26,25 @@ jobs:
           python-version: "3.12"
       - name: Install JupyterLite
         run: pip install -r requirements.txt
+      # Notebooks store each output line as a list item. JupyterLite has no
+      # server to join them, so saved outputs show "," at the start of lines.
+      # Join them into single strings in the build copy (the repo is untouched).
+      - name: Join saved output lines
+        shell: python
+        run: |
+          import glob, json
+          for path in glob.glob("content/**/*.ipynb", recursive=True):
+              with open(path, encoding="utf-8") as f:
+                  nb = json.load(f)
+              for cell in nb["cells"]:
+                  for out in cell.get("outputs", []):
+                      if isinstance(out.get("text"), list):
+                          out["text"] = "".join(out["text"])
+                      for mime, value in out.get("data", {}).items():
+                          if isinstance(value, list):
+                              out["data"][mime] = "".join(value)
+              with open(path, "w", encoding="utf-8") as f:
+                  json.dump(nb, f, indent=1, ensure_ascii=False)
       - name: Build the site
         run: jupyter lite build
       - name: Keep the custom domain
