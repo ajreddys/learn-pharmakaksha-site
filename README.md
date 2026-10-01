@@ -12,6 +12,7 @@ Students open **https://learn.pharmakaksha.com** and run Python in their browser
 | Folder | Course | Notebooks |
 | --- | --- | --- |
 | `content/BP101T Basics of Python Programming for Pharmaceutical Sciences (Theory)` | BP101T, Semester I | Unit I |
+| `content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)` | BP301T, Semester III | Units I–V, with 7 practice datasets |
 
 The site is built with [JupyterLite](https://jupyterlite.readthedocs.io). Python runs inside each student's browser, using the Pyodide engine, so there are no server costs and no limit on how many students can use it. NumPy, Pandas, Matplotlib, SciPy, statsmodels and scikit-learn are all available.
 
