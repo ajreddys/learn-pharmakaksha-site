@@ -1,0 +1,628 @@
+week_start,product,units_sold,promotion,festival_week
+2022-01-03,Paracetamol 650 mg (strips),413,0,0
+2022-01-10,Paracetamol 650 mg (strips),452,0,0
+2022-01-17,Paracetamol 650 mg (strips),443,0,0
+2022-01-24,Paracetamol 650 mg (strips),494,0,0
+2022-01-31,Paracetamol 650 mg (strips),449,0,0
+2022-02-07,Paracetamol 650 mg (strips),447,0,0
+2022-02-14,Paracetamol 650 mg (strips),467,0,0
+2022-02-21,Paracetamol 650 mg (strips),486,1,0
+2022-02-28,Paracetamol 650 mg (strips),415,0,0
+2022-03-07,Paracetamol 650 mg (strips),432,0,0
+2022-03-14,Paracetamol 650 mg (strips),466,0,0
+2022-03-21,Paracetamol 650 mg (strips),411,0,0
+2022-03-28,Paracetamol 650 mg (strips),499,0,0
+2022-04-04,Paracetamol 650 mg (strips),430,0,0
+2022-04-11,Paracetamol 650 mg (strips),435,0,0
+2022-04-18,Paracetamol 650 mg (strips),424,0,0
+2022-04-25,Paracetamol 650 mg (strips),515,1,0
+2022-05-02,Paracetamol 650 mg (strips),484,0,0
+2022-05-09,Paracetamol 650 mg (strips),386,0,0
+2022-05-16,Paracetamol 650 mg (strips),405,0,0
+2022-05-23,Paracetamol 650 mg (strips),480,0,0
+2022-05-30,Paracetamol 650 mg (strips),419,0,0
+2022-06-06,Paracetamol 650 mg (strips),524,0,0
+2022-06-13,Paracetamol 650 mg (strips),477,0,0
+2022-06-20,Paracetamol 650 mg (strips),606,0,0
+2022-06-27,Paracetamol 650 mg (strips),552,0,0
+2022-07-04,Paracetamol 650 mg (strips),569,0,0
+2022-07-11,Paracetamol 650 mg (strips),586,0,0
+2022-07-18,Paracetamol 650 mg (strips),585,0,0
+2022-07-25,Paracetamol 650 mg (strips),637,0,0
+2022-08-01,Paracetamol 650 mg (strips),690,1,0
+2022-08-08,Paracetamol 650 mg (strips),612,0,0
+2022-08-15,Paracetamol 650 mg (strips),584,0,0
+2022-08-22,Paracetamol 650 mg (strips),600,0,0
+2022-08-29,Paracetamol 650 mg (strips),656,0,0
+2022-09-05,Paracetamol 650 mg (strips),615,0,0
+2022-09-12,Paracetamol 650 mg (strips),646,0,0
+2022-09-19,Paracetamol 650 mg (strips),598,0,0
+2022-09-26,Paracetamol 650 mg (strips),644,1,0
+2022-10-03,Paracetamol 650 mg (strips),540,0,0
+2022-10-10,Paracetamol 650 mg (strips),545,0,0
+2022-10-17,Paracetamol 650 mg (strips),566,0,0
+2022-10-24,Paracetamol 650 mg (strips),551,1,1
+2022-10-31,Paracetamol 650 mg (strips),495,0,1
+2022-11-07,Paracetamol 650 mg (strips),403,0,1
+2022-11-14,Paracetamol 650 mg (strips),461,0,0
+2022-11-21,Paracetamol 650 mg (strips),443,0,0
+2022-11-28,Paracetamol 650 mg (strips),451,0,0
+2022-12-05,Paracetamol 650 mg (strips),551,0,0
+2022-12-12,Paracetamol 650 mg (strips),562,0,0
+2022-12-19,Paracetamol 650 mg (strips),511,0,0
+2022-12-26,Paracetamol 650 mg (strips),584,0,0
+2023-01-02,Paracetamol 650 mg (strips),575,0,0
+2023-01-09,Paracetamol 650 mg (strips),555,0,0
+2023-01-16,Paracetamol 650 mg (strips),521,0,0
+2023-01-23,Paracetamol 650 mg (strips),612,0,0
+2023-01-30,Paracetamol 650 mg (strips),532,0,0
+2023-02-06,Paracetamol 650 mg (strips),508,1,0
+2023-02-13,Paracetamol 650 mg (strips),439,0,0
+2023-02-20,Paracetamol 650 mg (strips),423,0,0
+2023-02-27,Paracetamol 650 mg (strips),438,0,0
+2023-03-06,Paracetamol 650 mg (strips),572,0,0
+2023-03-13,Paracetamol 650 mg (strips),488,0,0
+2023-03-20,Paracetamol 650 mg (strips),475,0,0
+2023-03-27,Paracetamol 650 mg (strips),420,0,0
+2023-04-03,Paracetamol 650 mg (strips),526,1,0
+2023-04-10,Paracetamol 650 mg (strips),449,0,0
+2023-04-17,Paracetamol 650 mg (strips),519,0,0
+2023-04-24,Paracetamol 650 mg (strips),439,0,0
+2023-05-01,Paracetamol 650 mg (strips),516,1,0
+2023-05-08,Paracetamol 650 mg (strips),469,0,0
+2023-05-15,Paracetamol 650 mg (strips),509,0,0
+2023-05-22,Paracetamol 650 mg (strips),446,0,0
+2023-05-29,Paracetamol 650 mg (strips),456,0,0
+2023-06-05,Paracetamol 650 mg (strips),535,0,0
+2023-06-12,Paracetamol 650 mg (strips),549,0,0
+2023-06-19,Paracetamol 650 mg (strips),597,0,0
+2023-06-26,Paracetamol 650 mg (strips),605,0,0
+2023-07-03,Paracetamol 650 mg (strips),652,0,0
+2023-07-10,Paracetamol 650 mg (strips),668,0,0
+2023-07-17,Paracetamol 650 mg (strips),571,0,0
+2023-07-24,Paracetamol 650 mg (strips),656,0,0
+2023-07-31,Paracetamol 650 mg (strips),591,0,0
+2023-08-07,Paracetamol 650 mg (strips),666,0,0
+2023-08-14,Paracetamol 650 mg (strips),626,0,0
+2023-08-21,Paracetamol 650 mg (strips),750,1,0
+2023-08-28,Paracetamol 650 mg (strips),707,1,0
+2023-09-04,Paracetamol 650 mg (strips),692,0,0
+2023-09-11,Paracetamol 650 mg (strips),689,0,0
+2023-09-18,Paracetamol 650 mg (strips),679,0,0
+2023-09-25,Paracetamol 650 mg (strips),679,0,0
+2023-10-02,Paracetamol 650 mg (strips),662,1,0
+2023-10-09,Paracetamol 650 mg (strips),570,0,0
+2023-10-16,Paracetamol 650 mg (strips),626,1,0
+2023-10-23,Paracetamol 650 mg (strips),536,0,1
+2023-10-30,Paracetamol 650 mg (strips),494,0,1
+2023-11-06,Paracetamol 650 mg (strips),472,0,1
+2023-11-13,Paracetamol 650 mg (strips),523,0,0
+2023-11-20,Paracetamol 650 mg (strips),506,0,0
+2023-11-27,Paracetamol 650 mg (strips),536,0,0
+2023-12-04,Paracetamol 650 mg (strips),582,0,0
+2023-12-11,Paracetamol 650 mg (strips),583,0,0
+2023-12-18,Paracetamol 650 mg (strips),568,0,0
+2023-12-25,Paracetamol 650 mg (strips),592,0,0
+2024-01-01,Paracetamol 650 mg (strips),633,1,0
+2024-01-08,Paracetamol 650 mg (strips),557,0,0
+2024-01-15,Paracetamol 650 mg (strips),570,0,0
+2024-01-22,Paracetamol 650 mg (strips),567,0,0
+2024-01-29,Paracetamol 650 mg (strips),649,0,0
+2024-02-05,Paracetamol 650 mg (strips),461,0,0
+2024-02-12,Paracetamol 650 mg (strips),510,0,0
+2024-02-19,Paracetamol 650 mg (strips),518,0,0
+2024-02-26,Paracetamol 650 mg (strips),515,0,0
+2024-03-04,Paracetamol 650 mg (strips),538,0,0
+2024-03-11,Paracetamol 650 mg (strips),495,0,0
+2024-03-18,Paracetamol 650 mg (strips),491,0,0
+2024-03-25,Paracetamol 650 mg (strips),496,0,0
+2024-04-01,Paracetamol 650 mg (strips),523,0,0
+2024-04-08,Paracetamol 650 mg (strips),487,0,0
+2024-04-15,Paracetamol 650 mg (strips),578,0,0
+2024-04-22,Paracetamol 650 mg (strips),512,0,0
+2024-04-29,Paracetamol 650 mg (strips),653,1,0
+2024-05-06,Paracetamol 650 mg (strips),532,0,0
+2024-05-13,Paracetamol 650 mg (strips),519,0,0
+2024-05-20,Paracetamol 650 mg (strips),526,0,0
+2024-05-27,Paracetamol 650 mg (strips),556,0,0
+2024-06-03,Paracetamol 650 mg (strips),596,0,0
+2024-06-10,Paracetamol 650 mg (strips),618,0,0
+2024-06-17,Paracetamol 650 mg (strips),735,1,0
+2024-06-24,Paracetamol 650 mg (strips),664,0,0
+2024-07-01,Paracetamol 650 mg (strips),686,0,0
+2024-07-08,Paracetamol 650 mg (strips),688,0,0
+2024-07-15,Paracetamol 650 mg (strips),681,0,0
+2024-07-22,Paracetamol 650 mg (strips),696,0,0
+2024-07-29,Paracetamol 650 mg (strips),716,0,0
+2024-08-05,Paracetamol 650 mg (strips),756,0,0
+2024-08-12,Paracetamol 650 mg (strips),663,0,0
+2024-08-19,Paracetamol 650 mg (strips),738,0,0
+2024-08-26,Paracetamol 650 mg (strips),673,0,0
+2024-09-02,Paracetamol 650 mg (strips),688,0,0
+2024-09-09,Paracetamol 650 mg (strips),726,0,0
+2024-09-16,Paracetamol 650 mg (strips),671,0,0
+2024-09-23,Paracetamol 650 mg (strips),791,1,0
+2024-09-30,Paracetamol 650 mg (strips),725,0,0
+2024-10-07,Paracetamol 650 mg (strips),588,0,0
+2024-10-14,Paracetamol 650 mg (strips),616,0,0
+2024-10-21,Paracetamol 650 mg (strips),558,0,1
+2024-10-28,Paracetamol 650 mg (strips),580,0,1
+2024-11-04,Paracetamol 650 mg (strips),452,0,1
+2024-11-11,Paracetamol 650 mg (strips),566,0,0
+2024-11-18,Paracetamol 650 mg (strips),481,0,0
+2024-11-25,Paracetamol 650 mg (strips),590,0,0
+2024-12-02,Paracetamol 650 mg (strips),623,0,0
+2024-12-09,Paracetamol 650 mg (strips),595,0,0
+2024-12-16,Paracetamol 650 mg (strips),627,0,0
+2024-12-23,Paracetamol 650 mg (strips),637,0,0
+2024-12-30,Paracetamol 650 mg (strips),591,0,0
+2025-01-06,Paracetamol 650 mg (strips),721,1,0
+2025-01-13,Paracetamol 650 mg (strips),629,0,0
+2025-01-20,Paracetamol 650 mg (strips),639,0,0
+2025-01-27,Paracetamol 650 mg (strips),632,0,0
+2025-02-03,Paracetamol 650 mg (strips),577,0,0
+2025-02-10,Paracetamol 650 mg (strips),661,1,0
+2025-02-17,Paracetamol 650 mg (strips),518,0,0
+2025-02-24,Paracetamol 650 mg (strips),579,0,0
+2025-03-03,Paracetamol 650 mg (strips),564,0,0
+2025-03-10,Paracetamol 650 mg (strips),574,0,0
+2025-03-17,Paracetamol 650 mg (strips),561,0,0
+2025-03-24,Paracetamol 650 mg (strips),538,0,0
+2025-03-31,Paracetamol 650 mg (strips),531,0,0
+2025-04-07,Paracetamol 650 mg (strips),545,0,0
+2025-04-14,Paracetamol 650 mg (strips),572,0,0
+2025-04-21,Paracetamol 650 mg (strips),630,0,0
+2025-04-28,Paracetamol 650 mg (strips),565,0,0
+2025-05-05,Paracetamol 650 mg (strips),574,0,0
+2025-05-12,Paracetamol 650 mg (strips),631,1,0
+2025-05-19,Paracetamol 650 mg (strips),601,0,0
+2025-05-26,Paracetamol 650 mg (strips),542,0,0
+2025-06-02,Paracetamol 650 mg (strips),589,0,0
+2025-06-09,Paracetamol 650 mg (strips),664,0,0
+2025-06-16,Paracetamol 650 mg (strips),663,0,0
+2025-06-23,Paracetamol 650 mg (strips),657,0,0
+2025-06-30,Paracetamol 650 mg (strips),630,0,0
+2025-07-07,Paracetamol 650 mg (strips),772,0,0
+2025-07-14,Paracetamol 650 mg (strips),773,0,0
+2025-07-21,Paracetamol 650 mg (strips),698,0,0
+2025-07-28,Paracetamol 650 mg (strips),718,0,0
+2025-08-04,Paracetamol 650 mg (strips),764,0,0
+2025-08-11,Paracetamol 650 mg (strips),752,0,0
+2025-08-18,Paracetamol 650 mg (strips),750,0,0
+2025-08-25,Paracetamol 650 mg (strips),769,0,0
+2025-09-01,Paracetamol 650 mg (strips),740,0,0
+2025-09-08,Paracetamol 650 mg (strips),723,0,0
+2025-09-15,Paracetamol 650 mg (strips),757,0,0
+2025-09-22,Paracetamol 650 mg (strips),729,0,0
+2025-09-29,Paracetamol 650 mg (strips),739,0,0
+2025-10-06,Paracetamol 650 mg (strips),662,0,0
+2025-10-13,Paracetamol 650 mg (strips),676,0,0
+2025-10-20,Paracetamol 650 mg (strips),614,0,1
+2025-10-27,Paracetamol 650 mg (strips),651,0,1
+2025-11-03,Paracetamol 650 mg (strips),579,0,1
+2025-11-10,Paracetamol 650 mg (strips),587,0,0
+2025-11-17,Paracetamol 650 mg (strips),590,0,0
+2025-11-24,Paracetamol 650 mg (strips),650,0,0
+2025-12-01,Paracetamol 650 mg (strips),631,0,0
+2025-12-08,Paracetamol 650 mg (strips),720,1,0
+2025-12-15,Paracetamol 650 mg (strips),677,0,0
+2025-12-22,Paracetamol 650 mg (strips),639,0,0
+2025-12-29,Paracetamol 650 mg (strips),650,0,0
+2022-01-03,ORS sachets,316,1,0
+2022-01-10,ORS sachets,368,1,0
+2022-01-17,ORS sachets,310,0,0
+2022-01-24,ORS sachets,344,1,0
+2022-01-31,ORS sachets,287,0,0
+2022-02-07,ORS sachets,297,0,0
+2022-02-14,ORS sachets,295,0,0
+2022-02-21,ORS sachets,321,0,0
+2022-02-28,ORS sachets,293,0,0
+2022-03-07,ORS sachets,403,0,0
+2022-03-14,ORS sachets,401,0,0
+2022-03-21,ORS sachets,410,0,0
+2022-03-28,ORS sachets,504,1,0
+2022-04-04,ORS sachets,550,0,0
+2022-04-11,ORS sachets,581,0,0
+2022-04-18,ORS sachets,574,0,0
+2022-04-25,ORS sachets,584,0,0
+2022-05-02,ORS sachets,542,0,0
+2022-05-09,ORS sachets,593,0,0
+2022-05-16,ORS sachets,541,0,0
+2022-05-23,ORS sachets,614,0,0
+2022-05-30,ORS sachets,605,0,0
+2022-06-06,ORS sachets,523,0,0
+2022-06-13,ORS sachets,612,1,0
+2022-06-20,ORS sachets,603,0,0
+2022-06-27,ORS sachets,609,0,0
+2022-07-04,ORS sachets,424,0,0
+2022-07-11,ORS sachets,424,0,0
+2022-07-18,ORS sachets,410,0,0
+2022-07-25,ORS sachets,479,0,0
+2022-08-01,ORS sachets,333,0,0
+2022-08-08,ORS sachets,301,0,0
+2022-08-15,ORS sachets,339,0,0
+2022-08-22,ORS sachets,301,0,0
+2022-08-29,ORS sachets,322,0,0
+2022-09-05,ORS sachets,397,1,0
+2022-09-12,ORS sachets,331,0,0
+2022-09-19,ORS sachets,301,0,0
+2022-09-26,ORS sachets,321,0,0
+2022-10-03,ORS sachets,294,0,0
+2022-10-10,ORS sachets,403,0,0
+2022-10-17,ORS sachets,313,0,0
+2022-10-24,ORS sachets,289,0,1
+2022-10-31,ORS sachets,309,0,1
+2022-11-07,ORS sachets,307,0,1
+2022-11-14,ORS sachets,344,0,0
+2022-11-21,ORS sachets,328,0,0
+2022-11-28,ORS sachets,400,0,0
+2022-12-05,ORS sachets,321,0,0
+2022-12-12,ORS sachets,412,1,0
+2022-12-19,ORS sachets,372,0,0
+2022-12-26,ORS sachets,324,0,0
+2023-01-02,ORS sachets,353,0,0
+2023-01-09,ORS sachets,331,0,0
+2023-01-16,ORS sachets,344,0,0
+2023-01-23,ORS sachets,317,0,0
+2023-01-30,ORS sachets,409,1,0
+2023-02-06,ORS sachets,325,0,0
+2023-02-13,ORS sachets,346,0,0
+2023-02-20,ORS sachets,414,1,0
+2023-02-27,ORS sachets,352,0,0
+2023-03-06,ORS sachets,453,0,0
+2023-03-13,ORS sachets,444,0,0
+2023-03-20,ORS sachets,496,0,0
+2023-03-27,ORS sachets,485,1,0
+2023-04-03,ORS sachets,621,0,0
+2023-04-10,ORS sachets,583,0,0
+2023-04-17,ORS sachets,603,0,0
+2023-04-24,ORS sachets,620,1,0
+2023-05-01,ORS sachets,573,0,0
+2023-05-08,ORS sachets,586,0,0
+2023-05-15,ORS sachets,618,0,0
+2023-05-22,ORS sachets,551,0,0
+2023-05-29,ORS sachets,621,0,0
+2023-06-05,ORS sachets,571,0,0
+2023-06-12,ORS sachets,610,0,0
+2023-06-19,ORS sachets,621,0,0
+2023-06-26,ORS sachets,648,1,0
+2023-07-03,ORS sachets,440,0,0
+2023-07-10,ORS sachets,489,0,0
+2023-07-17,ORS sachets,490,0,0
+2023-07-24,ORS sachets,519,0,0
+2023-07-31,ORS sachets,461,0,0
+2023-08-07,ORS sachets,302,0,0
+2023-08-14,ORS sachets,324,0,0
+2023-08-21,ORS sachets,400,0,0
+2023-08-28,ORS sachets,391,0,0
+2023-09-04,ORS sachets,328,0,0
+2023-09-11,ORS sachets,319,0,0
+2023-09-18,ORS sachets,349,0,0
+2023-09-25,ORS sachets,356,0,0
+2023-10-02,ORS sachets,405,0,0
+2023-10-09,ORS sachets,336,0,0
+2023-10-16,ORS sachets,274,0,0
+2023-10-23,ORS sachets,289,0,1
+2023-10-30,ORS sachets,269,0,1
+2023-11-06,ORS sachets,300,0,1
+2023-11-13,ORS sachets,279,0,0
+2023-11-20,ORS sachets,355,0,0
+2023-11-27,ORS sachets,368,0,0
+2023-12-04,ORS sachets,356,0,0
+2023-12-11,ORS sachets,363,0,0
+2023-12-18,ORS sachets,346,0,0
+2023-12-25,ORS sachets,352,0,0
+2024-01-01,ORS sachets,449,1,0
+2024-01-08,ORS sachets,417,1,0
+2024-01-15,ORS sachets,322,0,0
+2024-01-22,ORS sachets,381,1,0
+2024-01-29,ORS sachets,341,0,0
+2024-02-05,ORS sachets,350,0,0
+2024-02-12,ORS sachets,363,0,0
+2024-02-19,ORS sachets,366,0,0
+2024-02-26,ORS sachets,341,0,0
+2024-03-04,ORS sachets,445,0,0
+2024-03-11,ORS sachets,494,0,0
+2024-03-18,ORS sachets,483,0,0
+2024-03-25,ORS sachets,467,0,0
+2024-04-01,ORS sachets,576,0,0
+2024-04-08,ORS sachets,658,0,0
+2024-04-15,ORS sachets,664,0,0
+2024-04-22,ORS sachets,650,0,0
+2024-04-29,ORS sachets,590,0,0
+2024-05-06,ORS sachets,585,0,0
+2024-05-13,ORS sachets,630,0,0
+2024-05-20,ORS sachets,642,0,0
+2024-05-27,ORS sachets,637,1,0
+2024-06-03,ORS sachets,598,0,0
+2024-06-10,ORS sachets,606,0,0
+2024-06-17,ORS sachets,656,0,0
+2024-06-24,ORS sachets,614,0,0
+2024-07-01,ORS sachets,514,0,0
+2024-07-08,ORS sachets,501,0,0
+2024-07-15,ORS sachets,508,0,0
+2024-07-22,ORS sachets,490,0,0
+2024-07-29,ORS sachets,546,0,0
+2024-08-05,ORS sachets,395,0,0
+2024-08-12,ORS sachets,389,0,0
+2024-08-19,ORS sachets,338,0,0
+2024-08-26,ORS sachets,362,0,0
+2024-09-02,ORS sachets,381,0,0
+2024-09-09,ORS sachets,403,0,0
+2024-09-16,ORS sachets,364,0,0
+2024-09-23,ORS sachets,321,0,0
+2024-09-30,ORS sachets,406,0,0
+2024-10-07,ORS sachets,387,0,0
+2024-10-14,ORS sachets,350,0,0
+2024-10-21,ORS sachets,330,0,1
+2024-10-28,ORS sachets,295,0,1
+2024-11-04,ORS sachets,324,0,1
+2024-11-11,ORS sachets,406,0,0
+2024-11-18,ORS sachets,396,0,0
+2024-11-25,ORS sachets,367,0,0
+2024-12-02,ORS sachets,350,0,0
+2024-12-09,ORS sachets,368,0,0
+2024-12-16,ORS sachets,388,0,0
+2024-12-23,ORS sachets,420,0,0
+2024-12-30,ORS sachets,429,0,0
+2025-01-06,ORS sachets,359,0,0
+2025-01-13,ORS sachets,382,0,0
+2025-01-20,ORS sachets,392,0,0
+2025-01-27,ORS sachets,359,0,0
+2025-02-03,ORS sachets,379,0,0
+2025-02-10,ORS sachets,368,0,0
+2025-02-17,ORS sachets,424,0,0
+2025-02-24,ORS sachets,408,0,0
+2025-03-03,ORS sachets,476,0,0
+2025-03-10,ORS sachets,503,0,0
+2025-03-17,ORS sachets,497,0,0
+2025-03-24,ORS sachets,476,0,0
+2025-03-31,ORS sachets,483,0,0
+2025-04-07,ORS sachets,635,0,0
+2025-04-14,ORS sachets,629,0,0
+2025-04-21,ORS sachets,688,0,0
+2025-04-28,ORS sachets,606,0,0
+2025-05-05,ORS sachets,675,0,0
+2025-05-12,ORS sachets,633,0,0
+2025-05-19,ORS sachets,757,1,0
+2025-05-26,ORS sachets,672,0,0
+2025-06-02,ORS sachets,696,1,0
+2025-06-09,ORS sachets,675,0,0
+2025-06-16,ORS sachets,668,0,0
+2025-06-23,ORS sachets,641,0,0
+2025-06-30,ORS sachets,628,0,0
+2025-07-07,ORS sachets,584,1,0
+2025-07-14,ORS sachets,498,0,0
+2025-07-21,ORS sachets,486,0,0
+2025-07-28,ORS sachets,569,1,0
+2025-08-04,ORS sachets,380,0,0
+2025-08-11,ORS sachets,390,0,0
+2025-08-18,ORS sachets,402,0,0
+2025-08-25,ORS sachets,391,0,0
+2025-09-01,ORS sachets,399,0,0
+2025-09-08,ORS sachets,389,0,0
+2025-09-15,ORS sachets,407,0,0
+2025-09-22,ORS sachets,436,0,0
+2025-09-29,ORS sachets,392,0,0
+2025-10-06,ORS sachets,472,1,0
+2025-10-13,ORS sachets,380,0,0
+2025-10-20,ORS sachets,424,0,1
+2025-10-27,ORS sachets,346,0,1
+2025-11-03,ORS sachets,389,0,1
+2025-11-10,ORS sachets,464,1,0
+2025-11-17,ORS sachets,402,0,0
+2025-11-24,ORS sachets,451,1,0
+2025-12-01,ORS sachets,386,0,0
+2025-12-08,ORS sachets,500,1,0
+2025-12-15,ORS sachets,386,0,0
+2025-12-22,ORS sachets,364,0,0
+2025-12-29,ORS sachets,432,0,0
+2022-01-03,Cetirizine 10 mg (strips),174,0,0
+2022-01-10,Cetirizine 10 mg (strips),150,0,0
+2022-01-17,Cetirizine 10 mg (strips),132,0,0
+2022-01-24,Cetirizine 10 mg (strips),154,0,0
+2022-01-31,Cetirizine 10 mg (strips),142,0,0
+2022-02-07,Cetirizine 10 mg (strips),238,0,0
+2022-02-14,Cetirizine 10 mg (strips),240,0,0
+2022-02-21,Cetirizine 10 mg (strips),242,0,0
+2022-02-28,Cetirizine 10 mg (strips),265,0,0
+2022-03-07,Cetirizine 10 mg (strips),226,0,0
+2022-03-14,Cetirizine 10 mg (strips),312,1,0
+2022-03-21,Cetirizine 10 mg (strips),229,0,0
+2022-03-28,Cetirizine 10 mg (strips),250,0,0
+2022-04-04,Cetirizine 10 mg (strips),281,0,0
+2022-04-11,Cetirizine 10 mg (strips),230,0,0
+2022-04-18,Cetirizine 10 mg (strips),255,0,0
+2022-04-25,Cetirizine 10 mg (strips),254,0,0
+2022-05-02,Cetirizine 10 mg (strips),152,0,0
+2022-05-09,Cetirizine 10 mg (strips),179,0,0
+2022-05-16,Cetirizine 10 mg (strips),181,0,0
+2022-05-23,Cetirizine 10 mg (strips),130,0,0
+2022-05-30,Cetirizine 10 mg (strips),139,0,0
+2022-06-06,Cetirizine 10 mg (strips),153,0,0
+2022-06-13,Cetirizine 10 mg (strips),138,0,0
+2022-06-20,Cetirizine 10 mg (strips),143,0,0
+2022-06-27,Cetirizine 10 mg (strips),138,0,0
+2022-07-04,Cetirizine 10 mg (strips),167,0,0
+2022-07-11,Cetirizine 10 mg (strips),173,0,0
+2022-07-18,Cetirizine 10 mg (strips),162,0,0
+2022-07-25,Cetirizine 10 mg (strips),177,0,0
+2022-08-01,Cetirizine 10 mg (strips),165,0,0
+2022-08-08,Cetirizine 10 mg (strips),167,0,0
+2022-08-15,Cetirizine 10 mg (strips),159,0,0
+2022-08-22,Cetirizine 10 mg (strips),136,0,0
+2022-08-29,Cetirizine 10 mg (strips),176,0,0
+2022-09-05,Cetirizine 10 mg (strips),162,0,0
+2022-09-12,Cetirizine 10 mg (strips),149,0,0
+2022-09-19,Cetirizine 10 mg (strips),144,0,0
+2022-09-26,Cetirizine 10 mg (strips),163,0,0
+2022-10-03,Cetirizine 10 mg (strips),218,0,0
+2022-10-10,Cetirizine 10 mg (strips),207,0,0
+2022-10-17,Cetirizine 10 mg (strips),192,0,0
+2022-10-24,Cetirizine 10 mg (strips),150,0,1
+2022-10-31,Cetirizine 10 mg (strips),166,0,1
+2022-11-07,Cetirizine 10 mg (strips),140,0,1
+2022-11-14,Cetirizine 10 mg (strips),190,0,0
+2022-11-21,Cetirizine 10 mg (strips),205,0,0
+2022-11-28,Cetirizine 10 mg (strips),210,0,0
+2022-12-05,Cetirizine 10 mg (strips),161,0,0
+2022-12-12,Cetirizine 10 mg (strips),170,0,0
+2022-12-19,Cetirizine 10 mg (strips),165,0,0
+2022-12-26,Cetirizine 10 mg (strips),150,0,0
+2023-01-02,Cetirizine 10 mg (strips),174,0,0
+2023-01-09,Cetirizine 10 mg (strips),167,0,0
+2023-01-16,Cetirizine 10 mg (strips),163,0,0
+2023-01-23,Cetirizine 10 mg (strips),199,0,0
+2023-01-30,Cetirizine 10 mg (strips),179,0,0
+2023-02-06,Cetirizine 10 mg (strips),226,0,0
+2023-02-13,Cetirizine 10 mg (strips),258,0,0
+2023-02-20,Cetirizine 10 mg (strips),263,0,0
+2023-02-27,Cetirizine 10 mg (strips),248,0,0
+2023-03-06,Cetirizine 10 mg (strips),245,0,0
+2023-03-13,Cetirizine 10 mg (strips),254,0,0
+2023-03-20,Cetirizine 10 mg (strips),237,0,0
+2023-03-27,Cetirizine 10 mg (strips),250,0,0
+2023-04-03,Cetirizine 10 mg (strips),245,0,0
+2023-04-10,Cetirizine 10 mg (strips),255,0,0
+2023-04-17,Cetirizine 10 mg (strips),249,0,0
+2023-04-24,Cetirizine 10 mg (strips),268,0,0
+2023-05-01,Cetirizine 10 mg (strips),272,1,0
+2023-05-08,Cetirizine 10 mg (strips),175,0,0
+2023-05-15,Cetirizine 10 mg (strips),194,0,0
+2023-05-22,Cetirizine 10 mg (strips),178,0,0
+2023-05-29,Cetirizine 10 mg (strips),173,0,0
+2023-06-05,Cetirizine 10 mg (strips),164,0,0
+2023-06-12,Cetirizine 10 mg (strips),187,0,0
+2023-06-19,Cetirizine 10 mg (strips),169,0,0
+2023-06-26,Cetirizine 10 mg (strips),161,0,0
+2023-07-03,Cetirizine 10 mg (strips),168,0,0
+2023-07-10,Cetirizine 10 mg (strips),174,0,0
+2023-07-17,Cetirizine 10 mg (strips),214,1,0
+2023-07-24,Cetirizine 10 mg (strips),275,1,0
+2023-07-31,Cetirizine 10 mg (strips),141,0,0
+2023-08-07,Cetirizine 10 mg (strips),243,1,0
+2023-08-14,Cetirizine 10 mg (strips),156,0,0
+2023-08-21,Cetirizine 10 mg (strips),205,1,0
+2023-08-28,Cetirizine 10 mg (strips),169,0,0
+2023-09-04,Cetirizine 10 mg (strips),176,0,0
+2023-09-11,Cetirizine 10 mg (strips),181,0,0
+2023-09-18,Cetirizine 10 mg (strips),185,0,0
+2023-09-25,Cetirizine 10 mg (strips),172,0,0
+2023-10-02,Cetirizine 10 mg (strips),292,1,0
+2023-10-09,Cetirizine 10 mg (strips),200,0,0
+2023-10-16,Cetirizine 10 mg (strips),206,0,0
+2023-10-23,Cetirizine 10 mg (strips),187,0,1
+2023-10-30,Cetirizine 10 mg (strips),182,0,1
+2023-11-06,Cetirizine 10 mg (strips),196,0,1
+2023-11-13,Cetirizine 10 mg (strips),205,0,0
+2023-11-20,Cetirizine 10 mg (strips),200,0,0
+2023-11-27,Cetirizine 10 mg (strips),237,0,0
+2023-12-04,Cetirizine 10 mg (strips),172,0,0
+2023-12-11,Cetirizine 10 mg (strips),186,0,0
+2023-12-18,Cetirizine 10 mg (strips),207,0,0
+2023-12-25,Cetirizine 10 mg (strips),170,0,0
+2024-01-01,Cetirizine 10 mg (strips),200,0,0
+2024-01-08,Cetirizine 10 mg (strips),178,0,0
+2024-01-15,Cetirizine 10 mg (strips),190,0,0
+2024-01-22,Cetirizine 10 mg (strips),199,0,0
+2024-01-29,Cetirizine 10 mg (strips),211,0,0
+2024-02-05,Cetirizine 10 mg (strips),258,0,0
+2024-02-12,Cetirizine 10 mg (strips),261,0,0
+2024-02-19,Cetirizine 10 mg (strips),269,0,0
+2024-02-26,Cetirizine 10 mg (strips),274,0,0
+2024-03-04,Cetirizine 10 mg (strips),287,0,0
+2024-03-11,Cetirizine 10 mg (strips),255,0,0
+2024-03-18,Cetirizine 10 mg (strips),274,0,0
+2024-03-25,Cetirizine 10 mg (strips),286,0,0
+2024-04-01,Cetirizine 10 mg (strips),269,0,0
+2024-04-08,Cetirizine 10 mg (strips),269,0,0
+2024-04-15,Cetirizine 10 mg (strips),364,1,0
+2024-04-22,Cetirizine 10 mg (strips),272,0,0
+2024-04-29,Cetirizine 10 mg (strips),286,0,0
+2024-05-06,Cetirizine 10 mg (strips),209,0,0
+2024-05-13,Cetirizine 10 mg (strips),177,0,0
+2024-05-20,Cetirizine 10 mg (strips),197,0,0
+2024-05-27,Cetirizine 10 mg (strips),165,0,0
+2024-06-03,Cetirizine 10 mg (strips),192,0,0
+2024-06-10,Cetirizine 10 mg (strips),186,0,0
+2024-06-17,Cetirizine 10 mg (strips),181,0,0
+2024-06-24,Cetirizine 10 mg (strips),191,0,0
+2024-07-01,Cetirizine 10 mg (strips),184,0,0
+2024-07-08,Cetirizine 10 mg (strips),176,0,0
+2024-07-15,Cetirizine 10 mg (strips),194,0,0
+2024-07-22,Cetirizine 10 mg (strips),187,0,0
+2024-07-29,Cetirizine 10 mg (strips),195,0,0
+2024-08-05,Cetirizine 10 mg (strips),189,0,0
+2024-08-12,Cetirizine 10 mg (strips),205,0,0
+2024-08-19,Cetirizine 10 mg (strips),202,0,0
+2024-08-26,Cetirizine 10 mg (strips),174,0,0
+2024-09-02,Cetirizine 10 mg (strips),262,1,0
+2024-09-09,Cetirizine 10 mg (strips),189,0,0
+2024-09-16,Cetirizine 10 mg (strips),261,1,0
+2024-09-23,Cetirizine 10 mg (strips),245,1,0
+2024-09-30,Cetirizine 10 mg (strips),273,1,0
+2024-10-07,Cetirizine 10 mg (strips),226,0,0
+2024-10-14,Cetirizine 10 mg (strips),241,0,0
+2024-10-21,Cetirizine 10 mg (strips),200,0,1
+2024-10-28,Cetirizine 10 mg (strips),223,0,1
+2024-11-04,Cetirizine 10 mg (strips),221,0,1
+2024-11-11,Cetirizine 10 mg (strips),243,0,0
+2024-11-18,Cetirizine 10 mg (strips),236,0,0
+2024-11-25,Cetirizine 10 mg (strips),236,0,0
+2024-12-02,Cetirizine 10 mg (strips),201,0,0
+2024-12-09,Cetirizine 10 mg (strips),237,1,0
+2024-12-16,Cetirizine 10 mg (strips),192,0,0
+2024-12-23,Cetirizine 10 mg (strips),202,0,0
+2024-12-30,Cetirizine 10 mg (strips),174,0,0
+2025-01-06,Cetirizine 10 mg (strips),196,0,0
+2025-01-13,Cetirizine 10 mg (strips),213,0,0
+2025-01-20,Cetirizine 10 mg (strips),177,0,0
+2025-01-27,Cetirizine 10 mg (strips),198,0,0
+2025-02-03,Cetirizine 10 mg (strips),297,0,0
+2025-02-10,Cetirizine 10 mg (strips),286,0,0
+2025-02-17,Cetirizine 10 mg (strips),288,0,0
+2025-02-24,Cetirizine 10 mg (strips),300,0,0
+2025-03-03,Cetirizine 10 mg (strips),286,0,0
+2025-03-10,Cetirizine 10 mg (strips),291,0,0
+2025-03-17,Cetirizine 10 mg (strips),355,1,0
+2025-03-24,Cetirizine 10 mg (strips),279,0,0
+2025-03-31,Cetirizine 10 mg (strips),296,0,0
+2025-04-07,Cetirizine 10 mg (strips),293,0,0
+2025-04-14,Cetirizine 10 mg (strips),280,0,0
+2025-04-21,Cetirizine 10 mg (strips),269,0,0
+2025-04-28,Cetirizine 10 mg (strips),293,0,0
+2025-05-05,Cetirizine 10 mg (strips),214,0,0
+2025-05-12,Cetirizine 10 mg (strips),227,0,0
+2025-05-19,Cetirizine 10 mg (strips),197,0,0
+2025-05-26,Cetirizine 10 mg (strips),188,0,0
+2025-06-02,Cetirizine 10 mg (strips),203,0,0
+2025-06-09,Cetirizine 10 mg (strips),188,0,0
+2025-06-16,Cetirizine 10 mg (strips),188,0,0
+2025-06-23,Cetirizine 10 mg (strips),203,0,0
+2025-06-30,Cetirizine 10 mg (strips),181,0,0
+2025-07-07,Cetirizine 10 mg (strips),203,0,0
+2025-07-14,Cetirizine 10 mg (strips),218,0,0
+2025-07-21,Cetirizine 10 mg (strips),194,0,0
+2025-07-28,Cetirizine 10 mg (strips),210,0,0
+2025-08-04,Cetirizine 10 mg (strips),216,0,0
+2025-08-11,Cetirizine 10 mg (strips),305,1,0
+2025-08-18,Cetirizine 10 mg (strips),230,0,0
+2025-08-25,Cetirizine 10 mg (strips),221,0,0
+2025-09-01,Cetirizine 10 mg (strips),201,0,0
+2025-09-08,Cetirizine 10 mg (strips),185,0,0
+2025-09-15,Cetirizine 10 mg (strips),225,0,0
+2025-09-22,Cetirizine 10 mg (strips),194,0,0
+2025-09-29,Cetirizine 10 mg (strips),236,0,0
+2025-10-06,Cetirizine 10 mg (strips),258,0,0
+2025-10-13,Cetirizine 10 mg (strips),301,1,0
+2025-10-20,Cetirizine 10 mg (strips),204,0,1
+2025-10-27,Cetirizine 10 mg (strips),309,1,1
+2025-11-03,Cetirizine 10 mg (strips),217,0,1
+2025-11-10,Cetirizine 10 mg (strips),247,0,0
+2025-11-17,Cetirizine 10 mg (strips),251,0,0
+2025-11-24,Cetirizine 10 mg (strips),254,0,0
+2025-12-01,Cetirizine 10 mg (strips),213,0,0
+2025-12-08,Cetirizine 10 mg (strips),211,0,0
+2025-12-15,Cetirizine 10 mg (strips),229,0,0
+2025-12-22,Cetirizine 10 mg (strips),212,0,0
+2025-12-29,Cetirizine 10 mg (strips),215,0,0

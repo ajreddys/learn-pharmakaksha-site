@@ -1,0 +1,41 @@
+year,organism,antibiotic,isolates_tested,resistant
+2016,E. coli,Ciprofloxacin,987,581
+2017,E. coli,Ciprofloxacin,1181,763
+2018,E. coli,Ciprofloxacin,1442,899
+2019,E. coli,Ciprofloxacin,950,590
+2020,E. coli,Ciprofloxacin,933,611
+2021,E. coli,Ciprofloxacin,1499,1009
+2022,E. coli,Ciprofloxacin,1560,1147
+2023,E. coli,Ciprofloxacin,1102,772
+2024,E. coli,Ciprofloxacin,1020,720
+2025,E. coli,Ciprofloxacin,1525,1102
+2016,K. pneumoniae,Carbapenems,1458,445
+2017,K. pneumoniae,Carbapenems,1317,429
+2018,K. pneumoniae,Carbapenems,1334,457
+2019,K. pneumoniae,Carbapenems,1461,521
+2020,K. pneumoniae,Carbapenems,1401,549
+2021,K. pneumoniae,Carbapenems,1208,544
+2022,K. pneumoniae,Carbapenems,1056,479
+2023,K. pneumoniae,Carbapenems,952,505
+2024,K. pneumoniae,Carbapenems,963,493
+2025,K. pneumoniae,Carbapenems,1090,589
+2016,S. aureus,Methicillin (MRSA),1374,523
+2017,S. aureus,Methicillin (MRSA),1521,615
+2018,S. aureus,Methicillin (MRSA),1085,431
+2019,S. aureus,Methicillin (MRSA),1534,619
+2020,S. aureus,Methicillin (MRSA),1012,377
+2021,S. aureus,Methicillin (MRSA),1218,532
+2022,S. aureus,Methicillin (MRSA),1397,588
+2023,S. aureus,Methicillin (MRSA),1441,564
+2024,S. aureus,Methicillin (MRSA),1438,662
+2025,S. aureus,Methicillin (MRSA),1393,626
+2016,E. coli,Ceftriaxone,1041,596
+2017,E. coli,Ceftriaxone,914,541
+2018,E. coli,Ceftriaxone,1463,870
+2019,E. coli,Ceftriaxone,984,632
+2020,E. coli,Ceftriaxone,1451,919
+2021,E. coli,Ceftriaxone,1386,881
+2022,E. coli,Ceftriaxone,1420,880
+2023,E. coli,Ceftriaxone,1184,762
+2024,E. coli,Ceftriaxone,1260,858
+2025,E. coli,Ceftriaxone,1440,967
