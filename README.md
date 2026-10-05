@@ -56,6 +56,7 @@ Links to notebooks must write spaces as `%20` and brackets as `%28` and `%29`. F
 ```bash
 pip install -r requirements.txt
 jupyter lite build
+python branding/build_home.py
 python -m http.server 8000 --directory dist
 ```
 
@@ -70,5 +71,6 @@ Then open http://localhost:8000.
 | `jupyter-lite.json` | Site name. It also makes the site open directly on the notebook list |
 | `overrides.json` | Shows every cell of long notebooks at once, for smoother scrolling on phones |
 | `requirements.txt` | JupyterLite versions used for the build |
+| `branding/` | The Pharmakaksha home page (`home.html`), the web-sized logo and favicon, and `build_home.py`, which fills in the course list from `content/` at build time |
 | `CNAME` | The custom domain `learn.pharmakaksha.com` |
 | `.github/workflows/deploy.yml` | Builds and publishes the site on every push |

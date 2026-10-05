@@ -47,6 +47,9 @@ jobs:
                   json.dump(nb, f, indent=1, ensure_ascii=False)
       - name: Build the site
         run: jupyter lite build
+      # Replace the default redirect page with the Pharmakaksha home page.
+      - name: Add the branded home page
+        run: python branding/build_home.py
       - name: Keep the custom domain
         run: cp CNAME dist/CNAME
       - uses: actions/upload-pages-artifact@v5
