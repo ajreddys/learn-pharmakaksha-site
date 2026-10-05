@@ -111,8 +111,12 @@ def main():
     page = page.replace("<!-- COURSES -->", render_courses())
     (DIST / "index.html").write_text(page, encoding="utf-8")
     (DIST / "branding").mkdir(exist_ok=True)
-    for name in ("logo.jpg", "favicon.png"):
+    for name in ("logo.jpg", "favicon.png", "apple-touch-icon.png"):
         shutil.copy(HERE / name, DIST / "branding" / name)
+    # JupyterLite pages use their own .ico files (and swap to "busy" ones while
+    # Python runs), so replace them all with the Pharmakaksha logo.
+    for ico in [*DIST.glob("*/favicon.ico"), *DIST.glob("static/favicons/*.ico")]:
+        shutil.copy(HERE / "favicon.ico", ico)
     print("Wrote branded home page to", DIST / "index.html")
 
 
