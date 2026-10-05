@@ -144,12 +144,18 @@
       color: var(--muted);
     }
 
-    .empty {
-      padding: 28px;
-      border: 1px dashed var(--line);
-      border-radius: 12px;
-      text-align: center;
-      color: var(--muted);
+    .course.soon { min-height: 200px; }
+    .course .soon-note { margin: 0 0 14px; font-size: 14px; color: var(--muted); }
+    .course .soon-tag {
+      display: inline-block;
+      padding: 2px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--accent);
+      color: var(--accent);
+      font-weight: 600;
+      font-size: 12px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
     }
 
     .tips {
@@ -189,7 +195,7 @@
     }
 
     @media (prefers-color-scheme: dark) {
-      .course .unit { color: var(--accent-light); }
+      .course .unit, .course .soon-tag { color: var(--accent-light); border-color: var(--accent-light); }
     }
     @media (max-width: 640px) {
       .hero { flex-direction: column; text-align: center; padding-top: 28px; gap: 18px; }
@@ -219,11 +225,11 @@
           <a class="btn ghost" href="tree/">Browse all files</a>
         </div>
         <nav class="socials" aria-label="Pharmakaksha on social media">
-          <a href="https://www.youtube.com/@pharmkaksha" target="_blank" rel="noopener" aria-label="YouTube" title="YouTube"><svg><use href="#i-youtube"/></svg></a>
           <a href="https://www.instagram.com/pharmakaksha" target="_blank" rel="noopener" aria-label="Instagram" title="Instagram"><svg><use href="#i-instagram"/></svg></a>
           <a href="https://www.facebook.com/pharmakaksha" target="_blank" rel="noopener" aria-label="Facebook" title="Facebook"><svg><use href="#i-facebook"/></svg></a>
           <a href="https://www.whatsapp.com/channel/0029VbDs5dyIN9ipjEeNYg3x" target="_blank" rel="noopener" aria-label="WhatsApp channel" title="WhatsApp channel"><svg><use href="#i-whatsapp"/></svg></a>
           <a href="https://t.me/pharmakaksha" target="_blank" rel="noopener" aria-label="Telegram" title="Telegram"><svg><use href="#i-telegram"/></svg></a>
+          <a href="https://www.youtube.com/@pharmkaksha" target="_blank" rel="noopener" aria-label="YouTube" title="YouTube"><svg><use href="#i-youtube"/></svg></a>
         </nav>
       </div>
     </div>
@@ -247,11 +253,11 @@
   <footer>
     <div class="follow">Follow Pharmakaksha</div>
     <nav class="socials" aria-label="Pharmakaksha on social media">
-      <a href="https://www.youtube.com/@pharmkaksha" target="_blank" rel="noopener" aria-label="YouTube" title="YouTube"><svg><use href="#i-youtube"/></svg></a>
       <a href="https://www.instagram.com/pharmakaksha" target="_blank" rel="noopener" aria-label="Instagram" title="Instagram"><svg><use href="#i-instagram"/></svg></a>
       <a href="https://www.facebook.com/pharmakaksha" target="_blank" rel="noopener" aria-label="Facebook" title="Facebook"><svg><use href="#i-facebook"/></svg></a>
       <a href="https://www.whatsapp.com/channel/0029VbDs5dyIN9ipjEeNYg3x" target="_blank" rel="noopener" aria-label="WhatsApp channel" title="WhatsApp channel"><svg><use href="#i-whatsapp"/></svg></a>
       <a href="https://t.me/pharmakaksha" target="_blank" rel="noopener" aria-label="Telegram" title="Telegram"><svg><use href="#i-telegram"/></svg></a>
+      <a href="https://www.youtube.com/@pharmkaksha" target="_blank" rel="noopener" aria-label="YouTube" title="YouTube"><svg><use href="#i-youtube"/></svg></a>
     </nav>
     © Pharmakaksha · learn.pharmakaksha.com
   </footer>

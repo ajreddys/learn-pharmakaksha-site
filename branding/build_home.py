@@ -26,6 +26,19 @@ ACCENTS = [
 ]
 ROMAN = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"]
 
+# Every course gets a card on the home page, even before any of its notebooks
+# are published (it shows "Coming soon" until then). Use the course's folder
+# name under content/. A folder in content/ that is missing here still gets a card.
+COURSES = [
+    "BP101T Basics of Python Programming for Pharmaceutical Sciences (Theory)",
+    "BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)",
+    "BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)",
+    "BP604T AI applications in Pharmaceutical Sciences (Theory)",
+    "BP701T Biostatistics and Research Methodology (Theory)",
+    "BP703T AI in Clinical Applications (Theory)",
+    "BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)",
+]
+
 
 def course_info(folder):
     """'BP604T AI applications in ... (Theory)' -> ('BP604T', 'AI applications in ...', 'VI')"""
@@ -51,10 +64,27 @@ def link(path):
 
 def render_courses():
     cards = []
-    folders = sorted(p for p in CONTENT.iterdir() if p.is_dir())
-    for i, folder in enumerate(f for f in folders if any(f.glob("*.ipynb"))):
+    names = set(COURSES)
+    if CONTENT.is_dir():
+        names |= {p.name for p in CONTENT.iterdir() if p.is_dir()}
+    # sorting by name keeps each course's colour fixed as units are released
+    for i, folder in enumerate(CONTENT / n for n in sorted(names)):
         code, title, sem = course_info(folder)
         accent, accent_light = ACCENTS[i % len(ACCENTS)]
+        meta = (
+            f'<div class="meta"><span class="code">{html.escape(code)}</span>'
+            + (f"<span>Semester {sem}</span>" if sem else "")
+            + "</div>"
+        )
+        if not any(folder.glob("*.ipynb")):
+            cards.append(
+                f'<article class="course soon" style="--accent:{accent};--accent-light:{accent_light}">'
+                f"{meta}<h3>{html.escape(title)}</h3>"
+                '<p class="soon-note">Notebooks for this course are on the way.</p>'
+                '<div class="files"><span class="soon-tag">Coming soon</span></div>'
+                "</article>"
+            )
+            continue
         units = []
         for nb in sorted(folder.glob("*.ipynb")):
             label, name = unit_info(nb)
@@ -69,14 +99,10 @@ def render_courses():
             count += f" · {datasets} practice dataset{'s' if datasets != 1 else ''}"
         cards.append(
             f'<article class="course" style="--accent:{accent};--accent-light:{accent_light}">'
-            f'<div class="meta"><span class="code">{html.escape(code)}</span>'
-            + (f"<span>Semester {sem}</span>" if sem else "")
-            + f"</div><h3>{html.escape(title)}</h3><ul>{''.join(units)}</ul>"
+            f"{meta}<h3>{html.escape(title)}</h3><ul>{''.join(units)}</ul>"
             f'<div class="files">{count}</div>'
             "</article>"
         )
-    if not cards:
-        return '<div class="empty">The first course materials are coming soon.</div>'
     return '<div class="courses">' + "\n".join(cards) + "</div>"
 
 
