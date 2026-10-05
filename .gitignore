@@ -29,17 +29,14 @@ __pycache__/
 /content/BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)/tablet_weights.csv
 
 # BP301T
-/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/BP301T_Unit1_Foundations_of_ML.ipynb
 /content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/BP301T_Unit2_Regression_Models.ipynb
 /content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/BP301T_Unit3_Classification_Models.ipynb
 /content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/BP301T_Unit4_Tree_Models_and_Ensembles.ipynb
 /content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/BP301T_Unit5_Unsupervised_Learning.ipynb
-/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/adr_patients.csv
 /content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/dissolution_batches.csv
 /content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/dose_response.csv
 /content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/drug_properties.csv
 /content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/patient_profiles.csv
-/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/pk_clearance.csv
 /content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/treatment_response.csv
 
 # BP604T
