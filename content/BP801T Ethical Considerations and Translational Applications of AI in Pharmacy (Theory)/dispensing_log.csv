@@ -1,9 +1,0 @@
-period,system,category,count
-Before (2024),Manual,Wrong drug,6
-Before (2024),Manual,Wrong strength,12
-Before (2024),Manual,Wrong quantity,16
-Before (2024),Manual,Total prescriptions,12000
-After (2025),Automated,Wrong drug,3
-After (2025),Automated,Wrong strength,4
-After (2025),Automated,Wrong quantity,5
-After (2025),Automated,Total prescriptions,12500

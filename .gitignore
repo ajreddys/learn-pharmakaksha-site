@@ -5,3 +5,118 @@ _output/
 __pycache__/
 .cache/
 .DS_Store
+
+# ---- Unreleased materials ----
+# Delete a line (and commit) to publish that file on learn.pharmakaksha.com.
+
+# BP101T
+/content/BP101T Basics of Python Programming for Pharmaceutical Sciences (Theory)/BP101T_Unit1_Introduction_to_Python.ipynb
+/content/BP101T Basics of Python Programming for Pharmaceutical Sciences (Theory)/BP101T_Unit2_Control_Structures_and_Functions.ipynb
+/content/BP101T Basics of Python Programming for Pharmaceutical Sciences (Theory)/BP101T_Unit3_Data_Structures_and_File_Handling.ipynb
+/content/BP101T Basics of Python Programming for Pharmaceutical Sciences (Theory)/BP101T_Unit4_Data_Handling_with_Pandas.ipynb
+/content/BP101T Basics of Python Programming for Pharmaceutical Sciences (Theory)/BP101T_Unit5_Data_Visualization_with_Matplotlib.ipynb
+
+# BP201T
+/content/BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)/BP201T_Unit1_Descriptive_Statistics.ipynb
+/content/BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)/BP201T_Unit2_Probability_and_Distributions.ipynb
+/content/BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)/BP201T_Unit3_Sampling_and_Inference.ipynb
+/content/BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)/BP201T_Unit4_Correlation_and_Regression.ipynb
+/content/BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)/BP201T_Unit5_Statistical_Analysis_Case_Studies.ipynb
+/content/BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)/adr_daily_counts.csv
+/content/BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)/bp_trial.csv
+/content/BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)/dose_response.csv
+/content/BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)/pk_volunteers.csv
+/content/BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)/stability.csv
+/content/BP201T Applied Biostatistics and Data Analytics for Pharmaceutical Sciences (Theory)/tablet_weights.csv
+
+# BP301T
+/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/BP301T_Unit1_Foundations_of_ML.ipynb
+/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/BP301T_Unit2_Regression_Models.ipynb
+/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/BP301T_Unit3_Classification_Models.ipynb
+/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/BP301T_Unit4_Tree_Models_and_Ensembles.ipynb
+/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/BP301T_Unit5_Unsupervised_Learning.ipynb
+/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/adr_patients.csv
+/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/dissolution_batches.csv
+/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/dose_response.csv
+/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/drug_properties.csv
+/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/patient_profiles.csv
+/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/pk_clearance.csv
+/content/BP301T Introduction to Machine Learning in Pharmaceutical Sciences (Theory)/treatment_response.csv
+
+# BP604T
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/BP604T_Unit1_AI_in_Natural_Products.ipynb
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/BP604T_Unit2_AI_in_Medicinal_Chemistry.ipynb
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/BP604T_Unit3_AI_in_Drug_Product_Design.ipynb
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/BP604T_Unit4_AI_in_Process_Monitoring.ipynb
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/BP604T_Unit5_AI_in_Pharmaceutical_Analysis.ipynb
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/admet_set.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/ashwagandha_yield.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/batch_records.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/drug_descriptors.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/drug_smiles.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/fbd_drying.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/herb_drug_pairs.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/hplc_run.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/nir_tablets.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/phytochem_screening.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/press_sensors.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/qsar_series.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/release_profiles.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/solid_dispersions.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/solubility_set.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/stability_longterm.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/stability_stress.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/tablet_formulations.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/turmeric_samples.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/uv_calibration.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/uv_mixtures.csv
+/content/BP604T AI applications in Pharmaceutical Sciences (Theory)/virtual_library.csv
+
+# BP701T
+/content/BP701T Biostatistics and Research Methodology (Theory)/BP701T_Unit1_Basic_Concepts_of_Biostatistics.ipynb
+/content/BP701T Biostatistics and Research Methodology (Theory)/BP701T_Unit2_Probability_and_Distributions.ipynb
+/content/BP701T Biostatistics and Research Methodology (Theory)/BP701T_Unit3_Correlation_and_Regression.ipynb
+/content/BP701T Biostatistics and Research Methodology (Theory)/BP701T_Unit4A_Estimation_and_t_Tests.ipynb
+/content/BP701T Biostatistics and Research Methodology (Theory)/BP701T_Unit4B_ANOVA_Nonparametric_and_Chi_Square.ipynb
+/content/BP701T Biostatistics and Research Methodology (Theory)/BP701T_Unit5_Research_Methodology_and_DoE.ipynb
+/content/BP701T Biostatistics and Research Methodology (Theory)/tablet_dissolution.csv
+
+# BP703T
+/content/BP703T AI in Clinical Applications (Theory)/BP703T_Unit1_AI_in_Pharmacokinetics.ipynb
+/content/BP703T AI in Clinical Applications (Theory)/BP703T_Unit2_AI_in_Pharmacovigilance.ipynb
+/content/BP703T AI in Clinical Applications (Theory)/BP703T_Unit3_Personalized_Medicine.ipynb
+/content/BP703T AI in Clinical Applications (Theory)/BP703T_Unit4_Clinical_Decision_Support.ipynb
+/content/BP703T AI in Clinical Applications (Theory)/BP703T_Unit5_Guided_Project.ipynb
+/content/BP703T AI in Clinical Applications (Theory)/adherence_pdc.csv
+/content/BP703T AI in Clinical Applications (Theory)/anticoag_cohort.csv
+/content/BP703T AI in Clinical Applications (Theory)/clopidogrel_response.csv
+/content/BP703T AI in Clinical Applications (Theory)/diabetes_screening.csv
+/content/BP703T AI in Clinical Applications (Theory)/dose_cohort.csv
+/content/BP703T AI in Clinical Applications (Theory)/ehr_encounters.csv
+/content/BP703T AI in Clinical Applications (Theory)/ehr_labs.csv
+/content/BP703T AI in Clinical Applications (Theory)/ehr_meds.csv
+/content/BP703T AI in Clinical Applications (Theory)/ehr_patients.csv
+/content/BP703T AI in Clinical Applications (Theory)/faers_demo.csv
+/content/BP703T AI in Clinical Applications (Theory)/faers_drug.csv
+/content/BP703T AI in Clinical Applications (Theory)/faers_reac.csv
+/content/BP703T AI in Clinical Applications (Theory)/pima_diabetes.csv
+/content/BP703T AI in Clinical Applications (Theory)/pk_profile.csv
+
+# BP801T
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/BP801T_Unit1_AI_Lifecycle_and_Validation.ipynb
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/BP801T_Unit2_Regulation_and_Explainable_AI.ipynb
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/BP801T_Unit3_Pharmacy_Automation_and_Supply_Chain.ipynb
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/BP801T_Unit4_Public_Health_and_Real_World_Data.ipynb
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/BP801T_Unit5_Guided_Project_ADR_Prediction.ipynb
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/adherence_patients.csv
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/adr_ehr.csv
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/adr_project.csv
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/amr_trends.csv
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/dengue_weekly.csv
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/diabetes_survey.csv
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/dispensing_log.csv
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/pharmacy_demand.csv
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/refill_records.csv
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/supplier_shipments.csv
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/vaccination_monthly.csv
+/content/BP801T Ethical Considerations and Translational Applications of AI in Pharmacy (Theory)/vaccine_hesitancy.csv
