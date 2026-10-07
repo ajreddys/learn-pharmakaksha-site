@@ -117,6 +117,12 @@ def main():
     # Python runs), so replace them all with the Pharmakaksha logo.
     for ico in [*DIST.glob("*/favicon.ico"), *DIST.glob("static/favicons/*.ico")]:
         shutil.copy(HERE / "favicon.ico", ico)
+    # Cloudflare Web Analytics on the home page and every JupyterLite page
+    snippet = (HERE / "analytics.html").read_text(encoding="utf-8").strip()
+    for page_file in [DIST / "index.html", *DIST.glob("*/index.html")]:
+        text = page_file.read_text(encoding="utf-8")
+        if "cloudflareinsights" not in text and "</body>" in text:
+            page_file.write_text(text.replace("</body>", snippet + "\n</body>", 1), encoding="utf-8")
     print("Wrote branded home page to", DIST / "index.html")
 
 

@@ -100,6 +100,6 @@ Then open http://localhost:8000.
 | `jupyter-lite.json` | Site name and default Python kernel |
 | `overrides.json` | Shows every cell of long notebooks at once, for smoother scrolling on phones |
 | `requirements.txt` | JupyterLite versions used for the build |
-| `branding/` | The Pharmakaksha home page (`home.html`) with the social links, the web-sized logo and favicon, and `build_home.py`, which holds the course list and fills in the course cards at build time |
+| `branding/` | The Pharmakaksha home page (`home.html`) with the social links, the web-sized logo and favicon, and `build_home.py`, which holds the course list and fills in the course cards at build time. `analytics.html` holds the Cloudflare Web Analytics snippet, which the build adds to every page |
 | `CNAME` | The custom domain `learn.pharmakaksha.com` |
 | `.github/workflows/deploy.yml` | Builds and publishes the site on every push |
