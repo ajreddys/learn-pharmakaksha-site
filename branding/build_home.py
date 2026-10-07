@@ -89,7 +89,7 @@ def render_courses():
         for nb in sorted(folder.glob("*.ipynb")):
             label, name = unit_info(nb)
             units.append(
-                f'<li><a href="notebooks/index.html?path={link(nb)}">'
+                f'<li><a href="notebooks/index.html?path={link(nb)}" target="_blank" rel="noopener">'
                 f'<span class="unit">{html.escape(label)}</span>'
                 f"<span>{html.escape(name)}</span></a></li>"
             )
