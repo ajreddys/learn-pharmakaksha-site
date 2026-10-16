@@ -30,7 +30,7 @@ The site opens on a Pharmakaksha home page, with the logo, the "Learn · Grow ·
 - A course with released notebooks lists its units. Each unit links straight to its notebook.
 - A course with nothing released yet shows a **Coming soon** card.
 
-The cards are rebuilt on every deploy from what is in `content/`, so the home page never needs editing when you release a unit. To change the wording, the social links or the styling, edit `branding/home.html`.
+The cards are rebuilt on every deploy from what is in `content/`, so the home page never needs editing when you release a unit. The same course list is also published as `courses.json`, which the **Python Lab** tab on https://www.pharmakaksha.com/study?tab=python-lab reads, so released units appear there too. To change the wording, the social links or the styling, edit `branding/home.html`.
 
 ## Releasing materials
 

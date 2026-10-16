@@ -2,9 +2,12 @@
 
 The course list is built from whatever is in content/ at build time, so a
 course or unit appears on the home page as soon as its notebook is published.
+The same list is also written to dist/courses.json, which the Study page on
+www.pharmakaksha.com/study reads.
 """
 
 import html
+import json
 import re
 import shutil
 from pathlib import Path
@@ -62,13 +65,40 @@ def link(path):
     return quote(path.relative_to(CONTENT).as_posix(), safe="/")
 
 
-def render_courses():
-    cards = []
+def course_folders():
     names = set(COURSES)
     if CONTENT.is_dir():
         names |= {p.name for p in CONTENT.iterdir() if p.is_dir()}
     # sorting by name keeps each course's colour fixed as units are released
-    for i, folder in enumerate(CONTENT / n for n in sorted(names)):
+    return [CONTENT / n for n in sorted(names)]
+
+
+def courses_json():
+    """Released courses and units, for the Study page on www.pharmakaksha.com.
+
+    Unit links are relative to the site root, so the reader resolves them
+    against whichever domain served this file.
+    """
+    courses = []
+    for folder in course_folders():
+        code, title, sem = course_info(folder)
+        units = []
+        for nb in sorted(folder.glob("*.ipynb")):
+            label, name = unit_info(nb)
+            units.append({"label": label, "title": name, "href": f"notebooks/index.html?path={link(nb)}"})
+        courses.append({
+            "code": code,
+            "title": title,
+            "semester": sem,
+            "units": units,
+            "datasets": len(list(folder.glob("*.csv"))),
+        })
+    return {"courses": courses}
+
+
+def render_courses():
+    cards = []
+    for i, folder in enumerate(course_folders()):
         code, title, sem = course_info(folder)
         accent, accent_light = ACCENTS[i % len(ACCENTS)]
         meta = (
@@ -110,6 +140,7 @@ def main():
     page = (HERE / "home.html").read_text(encoding="utf-8")
     page = page.replace("<!-- COURSES -->", render_courses())
     (DIST / "index.html").write_text(page, encoding="utf-8")
+    (DIST / "courses.json").write_text(json.dumps(courses_json(), indent=1, ensure_ascii=False), encoding="utf-8")
     (DIST / "branding").mkdir(exist_ok=True)
     for name in ("logo.jpg", "favicon.png", "apple-touch-icon.png"):
         shutil.copy(HERE / name, DIST / "branding" / name)
